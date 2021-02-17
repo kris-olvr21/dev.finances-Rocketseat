@@ -1,4 +1,4 @@
-<img= src"./assets/logo.svg">
+<img src= "./assets/logo.svg" alt= "Logo Dev Finance">
 
 ## Technologies
 
