@@ -15,6 +15,12 @@ This project was developed with the following technologies:
 
 The project has the following features:
 
-- [Addition and exclusion of income and expenses]
-- [Account category inclusion option]
-- [Total result of incomes, expenses and balance]
+- Addition and exclusion of income and expenses;
+- Account category inclusion option;
+- Total result of incomes, expenses and balance.
+
+
+## More details
+
+- Project elaborated in: Maratona Discover (Rocketseat) 🚀
+- Access link: https://github.com/kris-olvr21/dev.finances-Rocketseat
