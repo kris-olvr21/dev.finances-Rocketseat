@@ -1,6 +1,6 @@
-<div>
-  <img src= "./assets/logo.svg" alt= "Logo Dev Finance" text-align= "center">
-</div>
+<h1 align="center">
+  <img src= "./assets/logo.svg" alt= "Logo Dev Finance">
+</h1>
 
 ## Technologies
 
