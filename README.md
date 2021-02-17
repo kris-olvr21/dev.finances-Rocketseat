@@ -1,6 +1,8 @@
-logo {
-align-items: center;
-<img src= "./assets/logo.svg" alt= "Logo Dev Finance">
+<div class= "logo">
+  <img src= "./assets/logo.svg" alt= "Logo Dev Finance">
+</div>
+.logo {
+text-align: center;
 }
 ## Technologies
 
