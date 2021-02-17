@@ -1,9 +1,7 @@
-<div class= "logo">
-  <img src= "./assets/logo.svg" alt= "Logo Dev Finance">
+<div>
+  <img src= "./assets/logo.svg" alt= "Logo Dev Finance" text-align= "center">
 </div>
-.logo {
-text-align: center;
-}
+
 ## Technologies
 
 This project was developed with the following technologies:
